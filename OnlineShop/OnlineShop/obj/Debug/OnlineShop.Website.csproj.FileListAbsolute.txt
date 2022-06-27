@@ -1,0 +1,4 @@
+D:\HPK Shoes\Đồ án lập trình web\OnlineShop\obj\Debug\OnlineShop.Website.csproj.AssemblyReference.cache
+D:\HPK Shoes\Đồ án lập trình web\OnlineShop\obj\Debug\OnlineShop.Website.csproj.CoreCompileInputs.cache
+D:\HPK Shoes\Đồ án lập trình web\OnlineShop\obj\Debug\OnlineShop.dll
+D:\HPK Shoes\Đồ án lập trình web\OnlineShop\obj\Debug\OnlineShop.pdb
